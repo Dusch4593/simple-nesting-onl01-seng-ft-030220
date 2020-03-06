@@ -88,8 +88,6 @@ def adding_matz
  	  puts programmer_hash
 end
 
-binding.pry
-
 
 def changing_alan
 	programmer_hash = 
